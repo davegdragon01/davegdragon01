@@ -2,8 +2,6 @@
 - 👀 I’m interested in learning to program
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on anything to give me experience
-- 📫 How to reach me:
-- Discord: Dave01#3079
 
 <!---
 davegdragon01/davegdragon01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
